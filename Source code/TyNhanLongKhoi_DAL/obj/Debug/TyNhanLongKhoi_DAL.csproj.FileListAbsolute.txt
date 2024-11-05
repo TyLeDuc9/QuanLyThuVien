@@ -1,0 +1,12 @@
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\TyNhanLongKhoi_DAL.dll.config
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\TyNhanLongKhoi_DAL.dll
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\TyNhanLongKhoi_DAL.pdb
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\EntityFramework.dll
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\EntityFramework.xml
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\obj\Debug\TyNhanLongKhoi_DAL.csproj.AssemblyReference.cache
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\obj\Debug\TyNhanLongKhoi_DAL.csproj.CoreCompileInputs.cache
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\obj\Debug\TyNhanLo.3D76BB4A.Up2Date
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\obj\Debug\TyNhanLongKhoi_DAL.dll
+D:\LTWin_QuanLyThuVien\Source code\TyNhanLongKhoi_DAL\obj\Debug\TyNhanLongKhoi_DAL.pdb
